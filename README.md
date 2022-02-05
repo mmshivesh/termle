@@ -22,7 +22,7 @@ When in an game, you can use the following commands:
 
 ## Dependencies
 
-1. Colorama
+`colorama==0.4.4`
 
 ## Future Improvements
 
