@@ -26,6 +26,6 @@ When in an game, you can use the following commands:
 
 ## Future Improvements
 
-[ ] Dependency-less mode
+- [ ] Dependency-less mode
 
-[ ] Automatically use the in-built system dictionary
+- [ ] Automatically use the in-built system dictionary
